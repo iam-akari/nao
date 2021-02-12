@@ -1,0 +1,23 @@
+@charset "utf-8";
+html {
+  font-size: 100%;
+}
+
+body {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Allura', cursive;
+  text-align: center;
+  color: #333333;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+.pic {
+  text-align: center;
+}
+
